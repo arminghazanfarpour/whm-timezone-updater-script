@@ -10,4 +10,4 @@ DRY_RUN=1 ./set-php-timezone.sh Asia/Tehran
 ./set-php-timezone.sh Asia/Tehran
 
 # اعمال + ری‌استارت PHP-FPM و Apache:
-RESTART=1 ./set-php-timezone.sh America/New_York
+RESTART=1 ./set-php-timezone.sh Asia/Tehran
